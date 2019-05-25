@@ -1,2 +1,4 @@
 Las rosas son rojas
 Las violetas son azules
+El coche es negro
+CEDUK es azul
