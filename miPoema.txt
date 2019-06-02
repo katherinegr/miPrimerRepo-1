@@ -1,5 +1,6 @@
 el cielo es azul 
-las nuebes son blancas
+las nubes son blancas
+cuando llueve el clima es hermoso
 
 Las rosas son rojas
 Las violetas son azules
